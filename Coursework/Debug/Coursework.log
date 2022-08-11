@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\djeda\source\repos\Coursework\Coursework\Source.cpp(595,23): warning C4309: 'initializing': truncation of constant value
+C:\Users\djeda\source\repos\Coursework\Coursework\Source.cpp(595,36): warning C4309: 'initializing': truncation of constant value
+C:\Users\djeda\source\repos\Coursework\Coursework\Source.cpp(595,49): warning C4309: 'initializing': truncation of constant value
+C:\Users\djeda\source\repos\Coursework\Coursework\Source.cpp(595,62): warning C4309: 'initializing': truncation of constant value
+C:\Users\djeda\source\repos\Coursework\Coursework\Source.cpp(595,75): warning C4309: 'initializing': truncation of constant value
+C:\Users\djeda\source\repos\Coursework\Coursework\Source.cpp(595,88): warning C4309: 'initializing': truncation of constant value
+C:\Users\djeda\source\repos\Coursework\Coursework\Source.cpp(595,101): warning C4309: 'initializing': truncation of constant value
+C:\Users\djeda\source\repos\Coursework\Coursework\Source.cpp(595,114): warning C4309: 'initializing': truncation of constant value
+C:\Users\djeda\source\repos\Coursework\Coursework\Source.cpp(682,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Coursework.vcxproj -> C:\Users\djeda\source\repos\Coursework\Debug\Coursework.exe
