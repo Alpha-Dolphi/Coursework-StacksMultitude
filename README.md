@@ -1,2 +1,2 @@
 # Coursework
-С++ working with multitude of stacks
+С++ working with a multitude of stacks
