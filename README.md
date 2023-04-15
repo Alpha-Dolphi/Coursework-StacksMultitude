@@ -1,9 +1,6 @@
 <h1 align="center">Множество Стеков 👋</h1>
 
-![TypeScript version](https://img.shields.io/badge/TypeScript-v5.0.2-blue)
-![React version](https://img.shields.io/badge/React-v18.2.0-orange)
-![React-Redux Version](https://img.shields.io/badge/React--Redux-v8.0.5-purple)
-
+![С++ version](https://img.shields.io/badge/С++-v20-blue)
 
 ---
 
